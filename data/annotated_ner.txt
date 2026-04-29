@@ -1,0 +1,97 @@
+艾伦·麦席森·图灵 B-PER
+1912年 O
+出生 O
+于 O
+英国伦敦 B-LOC
+， O
+是 O
+英国 B-LOC
+数学家 B-CONCEPT
+、 O
+逻辑学家 B-CONCEPT
+和 O
+密码分析学家 B-CONCEPT
+。 O
+
+图灵 B-PER
+就读 O
+于 O
+谢伯恩学校 B-ORG
+， O
+后来 O
+进入 O
+剑桥大学国王学院 B-ORG
+学习 O
+数学 B-CONCEPT
+。 O
+
+艾伦·图灵 B-PER
+在 O
+普林斯顿大学 B-ORG
+攻读 O
+博士学位 B-CONCEPT
+， O
+博士导师 O
+是 O
+阿隆佐·邱奇 B-PER
+。 O
+
+艾伦·图灵 B-PER
+发表 O
+论文 O
+《论可计算数及其在判定问题上的应用》 B-WORK
+， O
+提出 O
+图灵机 B-CONCEPT
+模型 O
+。 O
+
+图灵 B-PER
+发表 O
+论文 O
+《计算机器与智能》 B-WORK
+， O
+提出 O
+图灵测试 B-CONCEPT
+。 O
+
+第二次世界大战 B-EVENT
+期间 O
+， O
+艾伦·图灵 B-PER
+在 O
+布莱切利园 B-ORG
+工作 O
+， O
+参与 O
+破解 O
+恩尼格玛密码机 B-CONCEPT
+。 O
+
+图灵 B-PER
+在 O
+国家物理实验室 B-ORG
+和 O
+曼彻斯特大学 B-ORG
+工作 O
+。 O
+
+艾伦·图灵 B-PER
+获得 O
+大英帝国勋章 B-AWARD
+， O
+美国计算机协会 B-ORG
+设立 O
+图灵奖 B-AWARD
+。 O
+
+图灵 B-PER
+在 O
+英国柴郡 B-LOC
+逝世 O
+， O
+英国女王伊丽莎白二世 B-PER
+赦免 O
+了 O
+图灵 B-PER
+。 O
